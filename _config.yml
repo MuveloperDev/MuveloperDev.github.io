@@ -26,3 +26,6 @@ navigation:
         link: ./index.html#small-image
   - name: Another Page
     link: ./another-page.html
+
+theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
